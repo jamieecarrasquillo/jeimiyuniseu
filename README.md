@@ -51,7 +51,7 @@ Top 3:
 <br/>
 
 ### Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jamieeunice&theme=graywhite&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeimiyuniseu&theme=graywhite&show_icons=true)
 
-[linkedin]: https://www.linkedin.com/in/jamieeunice/
+[linkedin]: https://www.linkedin.com/in/jeimiyuniseu/
 [gmail]: jamieecarrasquillo@gmail.com
